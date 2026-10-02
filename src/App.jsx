@@ -87,7 +87,7 @@ export default function App() {
       <footer className="mt-8 text-xs text-zinc-600">
         Built by{' '}
         <a
-          href="https://github.com/anushnewar93"
+          href="https://github.com/newaar93"
           target="_blank"
           rel="noreferrer"
           className="text-zinc-400 transition hover:text-violet-300"
